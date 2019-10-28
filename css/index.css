@@ -15,4 +15,10 @@ nav .logo{
 }
  
 
+ul{
+    float: right
+}
 
+li{
+    display: inline;
+}
